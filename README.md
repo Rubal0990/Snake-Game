@@ -1,5 +1,7 @@
 # Snake-Game
 A snake game is written in Python using the Pygame library.
+Hosted on - https://rubal0990.github.io/Snake-Game/
+
 ## Installing
 Download the Python 3 installer package from the official website and install it, if not installed previously.
 ```
